@@ -12,7 +12,8 @@ iostream,
 string.
 ____________________________________________________________________________________________________________________________________________________________
 # Downloads
-[SquareGame 1.4 Download](SquareGame1.4.exe) Click the Download Link that Named View Raw
+[SquareGame 1.4 Download](SquareGame1.4.exe) Click the Download Link that Named View Raw,
+Make Sure the Both are downloaded
 [SquareGame 1.4 settings file Download](settings.yml) Click the Download Logo
 ____________________________________________________________________________________________________________________________________________________________
 
