@@ -13,6 +13,6 @@ string.
 ____________________________________________________________________________________________________________________________________________________________
 # Downloads
 [SquareGame 1.4 Download](https://github.com/wolfdark1982-lgtm/SquareGame-1.4-C-Runtime/raw/refs/heads/main/SquareGame1.4.exe)
-[SquareGame 1.4 settings file Download](settings.yml)
+[SquareGame 1.4 settings file Download](https://github.com/wolfdark1982-lgtm/SquareGame-1.4-C-Runtime/raw/refs/heads/main/settings.yml)
 ____________________________________________________________________________________________________________________________________________________________
 
